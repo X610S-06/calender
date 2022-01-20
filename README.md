@@ -1,9 +1,25 @@
-Noted, as a next step, we are expecting you to complete a short assignment.
+# Calender
 
-Assignment 1: Create a webpage with filter options to select different dates(yesterday, last week, last month, custom date range selection) and display the data from the API gov.uk/bank-holidays.json filtering the output set accordingly.
+ Calender Application
 
-Assignment 2: Create a Node, Mongo, express server. Create a user model. Create a route to sign up the user and trigger a welcome mail.
+# Clone and Use
 
-To submit the assignment, share a github repository containing the above two assignments in separate directories.
+Open Terminal
 
-Do let us know in case of any questions. Deadline: 20/01/22
+    git clone 'https - copied url'
+
+Change directory
+
+    cd 'directory name'
+
+Open all files on VS code
+
+    code .
+
+Install dependencies
+
+    npm install
+
+Run the website on localhost
+
+    npm run start
